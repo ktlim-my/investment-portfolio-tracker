@@ -1,0 +1,10 @@
+﻿Company,Quantity,Current Price,Market Value,Weight,Status
+NVIDIA,110,$177.39 ,"$19,512.90 ",20%,New Buy
+Eli Lilly,20,$935.58 ,"$18,711.60 ",19%,New Buy
+JPMorgan,50,$294.60 ,"$14,730.00 ",15%,New Buy
+Amazon,70,$209.77 ,"$14,683.90 ",15%,New Buy
+TSMC,30,$339.04 ,"$10,171.20 ",10%,New Buy
+ExxonMobil,70,$160.69 ,"$11,248.30 ",11%,New Buy
+STMicro,310,$34.32 ,"$10,639.20 ",11%,New Buy
+Cash,,,$302.90 ,0%,
+Total,,,"$100,000.00 ",,
